@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flower</string>
+    <string name="stop">Stop Downloading</string>
+    <string name="name">Name</string>
+    <string name="id">Id</string>
+    <string name="category">Category</string>
+    <string name="price">Price</string>
+    <string name="instruction">Instruction</string>
+</resources>
